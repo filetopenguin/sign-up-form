@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    background-color: ghostwhite;
+}
+.container{
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto';
+}
+.right{
+    display: flex;
+    flex-direction:column;
+}
+.login-form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+}
